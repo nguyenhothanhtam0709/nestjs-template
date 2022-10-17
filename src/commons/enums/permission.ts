@@ -1,0 +1,7 @@
+export const PERMISSION_KEYS = {
+  USER: {
+    CREATE_USER: 'USER.CREATE_USER',
+    EDIT_USER: 'USER.EDIT_USER',
+    DELETE_USER: 'USER.DELETE_USER',
+  },
+};
